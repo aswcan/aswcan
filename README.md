@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @aswcan
-- 👀 I’m interested in JAVA/Javascript
-- 🥲 Just being laid off by XIAOMI
+- 👀 I’m interested in Javascript
 - Looking for new opportunity
 - 📫 How to reach me 👇
 - email:dongwenhao833@gmail.com
